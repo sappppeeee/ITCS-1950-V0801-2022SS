@@ -1,0 +1,39 @@
+                    A text based game description:
+My text-based game is about defeating an RPG boss by solving math problems.
+The program will randomly pick a boss for you (from Black Dragon, Hell Hound,
+and The White Witch). First, you will enter your name into the program. Then,
+you will input the difficulty level to determine the difficulty of the math
+problems(From Easy =+,- / Medium = +,-,* / Hard = +,-,*, %). Then you will have
+to choose Class or Character. But Class of Character comes with a special ability
+and turn limits. However, you only have to get three right answers(Unless you
+choose the Warrior Class or Character for which you only need two right answers).
+
+                      Class/Character description :
+
+Warrior   -  The most physically strong and agile of all the other classes.
+Assassin  - Unlike the Warrior or Berserker class, the Assassin class is 
+            the polar opposite when come to raw strength and durability. But
+            Assassin class has its advantages when it comes to agility and 
+            intelligence. And can assassinate anything but the dragon.
+Mage      - The "glass cannon" class, and has the ability to "one-shot" 
+            anything. The class has less endurance and strength than any 
+            other class.
+Berserker - The berserker class is the strongest and the slowest with high
+             defense. When it goes Berserk it can "one-shot" anything.
+
+                            Ganme Rules:
+
+Get 3 righ answer to defeat the Boss / 2 righ answer for Warrior.
+
+Pick difficulty : Easy / Medium / Hard
+                :  +,- /  +,-,* / +,-,*,/ 
+
+Pick class/     : Warrior, Assassin
+character       : Mage and Berserker.
+
+                Class/Character Rules:
+
+Warrior -     | 4 Turns | 
+Assassin -    | 3 Turns | Dice roll (1-5)/ not Dice roll if dragon.
+Mage -        | 2 Turns | Dice roll (1-3)
+Berserker -   | 4 Turns | Dice roll (1-10)
